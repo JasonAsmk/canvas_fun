@@ -1,6 +1,5 @@
 //constants
 var N = 12;
-var RADIUS = 1;
 var step = 2*Math.PI/N;
 var H = 600;
 var W = 600;
